@@ -4,6 +4,7 @@
 - 60 minutos de prova
 - R$ 700 
 - 65% de acerto para passar (26 questões)
+- caneta azul
 - Niveis(K1: lembrar - K2: entender - K3: aplicar)
 - Distribuição de tempo / questões
 
