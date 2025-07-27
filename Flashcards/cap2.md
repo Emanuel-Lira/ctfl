@@ -1,0 +1,1 @@
+Validação = se atende às necessidades dos usuários; verificação é se cumpre requisitos

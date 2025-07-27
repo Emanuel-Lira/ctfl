@@ -107,7 +107,7 @@
 
 #### Funções e Responsabilidades em uma revisão formal
 - **Gerente**
-  - Decide o que deve ser revisado e fornece resursos
+  - Decide o que deve ser revisado e fornece recursos
 
 - **Autor**
   - Cria e corrige o produto de trabalho em analise
@@ -137,7 +137,7 @@
   - Os revisores podem realizar uma revisão individual antes, mas não é obrigatorio
 
 - **Revisão tecnica**
-  - Realizado por revisores tecnincamente qualificados e liderada por um moderador
+  - Realizado por revisores tecnicamente qualificados e liderada por um moderador
   - Objetivo é obtenção de consenso sobre problemas tecnicos e detecção de anomalias
   
 

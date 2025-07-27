@@ -12,7 +12,7 @@
 
 #### Caixa preta
 
-- Analise do comportamento sem acesso a estrutura interna
+- Análise do comportamento sem acesso a estrutura interna
 - Casos de teste são independentes
 
 ---
@@ -67,9 +67,9 @@
 #### Tabela de decisão
 
 - Testam combinações que levam a resultados diferentes
-- É formada de **condicoes** (entradas) e **
-- É formada de **condicoes** (entradas) e **Ações (saídas, que formam as linhas da tabela)
-- É formada de **condicoes** (entradas) e **
+
+- É formada de **condicoes** (entradas) e **Ações** (saídas, que formam as linhas da tabela)
+
 - **Regras** são as **colunas**, indicando quais condições resultam em quais ações
 - Numero de colunas de **Regras**, representam o **numero de casos de teste** (cobertura)
 
@@ -167,6 +167,22 @@
 - Checklists **podem ser construidos com base na experiencia**
 
 --- 
+```plaintext
+Análise e Modelagem
+├── Baseadas em especificação (caixa-preta)
+│   ├── Particionamento de equivalência
+│   ├── Análise de valor limite
+│   ├── Tabela de decisão
+│   ├── Transição de estados
+│   └── Casos de uso
+├── Baseadas na estrutura (caixa-branca)
+│   ├── Cobertura de instrução
+│   ├── Cobertura de decisão
+│   └── Cobertura de caminho
+└── Baseadas em experiência
+    ├── Teste exploratório
+    └── Checklist
+```
 
 ## Abordagens de teste baseadas na colaboração
 
